@@ -7,3 +7,5 @@
 To run the project you have to put one of the files
 ("radioA" or "radioB") in the project folder and then 
 run the script. Made in Matlab 2015.
+
+"radioB" file is currently too big to be added (~150Mb)
