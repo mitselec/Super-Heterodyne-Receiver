@@ -8,5 +8,5 @@ To run the project you have to put one of the files
 ("radioA" or "radioB") in the project folder and then 
 run the script. Made in Matlab 2015.
 
-"radioB" file is too big to be added as it is
-it is split by using HJSplit
+"radioB" file is too big to be hosted in git
+download link: 
